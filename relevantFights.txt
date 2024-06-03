@@ -1,0 +1,21 @@
+Row,Fighter1,Skips1,Fighter2,Skips2
+13,Bobby Green,0,Jim Miller,0
+319,Vicente Luque,1,Rafael Dos Anjos,1
+347,Tony Ferguson,1,Bobby Green,3
+431,Charles Oliveira,1,Beneil Dariush,1
+470,Matt Brown,0,Court McGee,1
+524,Gilbert Burns,2,Jorge Masvidal,0
+631,Gilbert Burns,3,Neil Magny,3
+659,Drew Dober,3,Bobby Green,4
+787,Nate Diaz,0,Tony Ferguson,2
+899,Jim Miller,4,Donald Cerrone,0
+980,Mauricio Rua,1,Ovince Saint Preux,2
+1166,Cub Swanson,2,Darren Elkins,3
+1613,Michael Johnson,4,Clay Guida,6
+2003,Anthony Pettis,1,Donald Cerrone,2
+2431,BJ Penn,0,Clay Guida,9
+3158,Matt Brown,6,Diego Sanchez,5
+3327,Tim Boetsch,2,Johny Hendricks,1
+3331,BJ Penn,2,Dennis Siver,0
+3426,Thiago Alves,5,Patrick Cote,0
+5769,Matt Hughes,0,Josh Koscheck,6
