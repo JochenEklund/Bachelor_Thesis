@@ -1,8 +1,8 @@
 Files:
 
-fightData.txt: Contains the dataset used for the models. Structure is shown on row 1.
+fightData.txt: Contains the data-set used for the models. Structure is shown on row 1.
 
-fightFinder.ipynb: Code for finding all fights in the dataset that fill certain criteria. 
+fightFinder.ipynb: Code for finding all fights in the data-set that fill certain criteria. 
 
 predictiveModels.ipynb: Code for running the models. Needs a set of fights to be specified manually. 
 
